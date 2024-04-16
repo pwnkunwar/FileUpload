@@ -1,0 +1,31 @@
+C:\Users\Pawan Kunwar\Desktop\File Upload\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pawan Kunwar\Desktop\File Upload\bin\Debug\net6.0\appsettings.json
+C:\Users\Pawan Kunwar\Desktop\File Upload\bin\Debug\net6.0\File Upload.staticwebassets.runtime.json
+C:\Users\Pawan Kunwar\Desktop\File Upload\bin\Debug\net6.0\File Upload.exe
+C:\Users\Pawan Kunwar\Desktop\File Upload\bin\Debug\net6.0\File Upload.deps.json
+C:\Users\Pawan Kunwar\Desktop\File Upload\bin\Debug\net6.0\File Upload.runtimeconfig.json
+C:\Users\Pawan Kunwar\Desktop\File Upload\bin\Debug\net6.0\File Upload.dll
+C:\Users\Pawan Kunwar\Desktop\File Upload\bin\Debug\net6.0\File Upload.pdb
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.csproj.AssemblyReference.cache
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.AssemblyInfoInputs.cache
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.AssemblyInfo.cs
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.csproj.CoreCompileInputs.cache
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.RazorAssemblyInfo.cache
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.RazorAssemblyInfo.cs
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\staticwebassets\msbuild.File Upload.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\staticwebassets\msbuild.build.File Upload.props
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.File Upload.props
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.File Upload.props
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\scopedcss\bundle\File Upload.styles.css
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\scopedcss\projectbundle\File Upload.bundle.scp.css
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.dll
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\refint\File Upload.dll
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.pdb
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\File Upload.genruntimeconfig.cache
+C:\Users\Pawan Kunwar\Desktop\File Upload\obj\Debug\net6.0\ref\File Upload.dll
